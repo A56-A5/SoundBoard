@@ -1,0 +1,4 @@
+pygame>=2.5.2
+edge-tts>=0.3.2
+SpeechRecognition>=3.9.0
+PyAudio>=0.2.13
